@@ -1,1 +1,3 @@
 # Praktikum
+Nama
+Kelas
